@@ -1,1 +1,12 @@
+body{ background-color: #C4E3B6;
+}
+h1{
+  color: #591E24
+}
+h2{
+  color: #591E24
+}
+h1{
+ font-family: Garamond
+} 
 
